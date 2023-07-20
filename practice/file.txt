@@ -1,0 +1,1 @@
+With this corrected code, you will get the correct count of each name in the counts dictionary.  As you can see, each name appears once in the dictionary, indicating the correct count of occurrences for each name.
